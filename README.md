@@ -1,6 +1,6 @@
 # My-Roadmap
 
-Aqui estou deixando uma parte do RoadMap que tenho seguido na minha triulha de estudos, focando em Backend/Dados.
+Aqui estou deixando uma parte do RoadMap que tenho seguido na minha trilha de estudos, focando em Backend/Dados.
 Tendo em vista algumas trilhas que me recomendaram pela internet, bem como dos cursos e bootcamps que fiz/estou fazendo.
 _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de terceiros sob domínio público, ou são mateirais promocionais, e todos tem fins estritamente didáticos._
 
@@ -11,7 +11,7 @@ _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de t
 
 # Trilha Backend, por Trilha.Info
 
-## Conhecimentos báiscos sobre internnet e Frontend
+## Conhecimentos básicos sobre internnet e Frontend
 [ ] - Protocolo HTTP;  
 [ ] - HTML/CSS;  
 [ ] - Javascript;  
