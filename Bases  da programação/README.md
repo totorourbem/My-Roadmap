@@ -7,7 +7,7 @@ _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de t
 ## Exercícios - Lógica de Programação em Visualg, fundação Bradesco
 [x] - Divisão de valores: _Algoritmo quu implementa divisão simples de valores_;  
 [x] - Multiplicação de numeros: _Algoritmo quu implementa multiplicação simples de valores_;   
-[x] - Média entre valores: _Algoritmo quu implementa média aritmética de valores_; 
+[x] - Média entre valores: _Algoritmo quu implementa média aritmética de valores_;   
 [x] - Média com opções: _Algoritmo quu implementa média aritmética de valores, com mais opções_;   
 [x] - Teste: _Algoritmo quu testa um loop do tipo CASO/FACA_;  
 [x] - Número Primo: _Algoritmo que verifica se um numero é primo ou não_;  
