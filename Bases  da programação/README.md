@@ -4,7 +4,7 @@
 
 _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de terceiros sob domínio público, ou são mateirais promocionais, e todos tem fins estritamente didáticos._
 
-## Exercćios - Lógica de Programação em Visualg, fundação Bradesco
+## Exercícios - Lógica de Programação em Visualg, fundação Bradesco
 [x] - Divisão de valores: _Algoritmo quu implementa divisão simples de valores_;  
 [x] - Multiplicação de numeros: _Algoritmo quu implementa multiplicação simples de valores_;   
 [x] - Média entre valores: _Algoritmo quu implementa média aritmética de valores_; 
