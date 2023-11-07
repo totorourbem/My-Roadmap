@@ -16,7 +16,7 @@ _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de t
 [ ] - HTML/CSS;  
 [ ] - Javascript;  
 ## Linguagens/Sistemas Operacionais
-[ ] - Python;  
+[X] - [Python](https://github.com/totorourbem/My-Roadmap/tree/main/Linguagens%20-%20Python);  
 [ ] - R;  
 [ ] - Bi;  
 [ ] - Sistemas operacionais;  
@@ -48,7 +48,7 @@ _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de t
 [ ] - Formatos de dados (JSON, CSV e XML);  
 [ ] - RegEX(RegularExpressaions);  
 ## Python
-[ ] - Básicos (Expressões, variáveis, Estrutura de dados, funções, instalação de pacotes e PEP8);  
+[X] - [Básicos (Expressões, variáveis, Estrutura de dados, funções, instalação de pacotes e PEP8)](https://github.com/totorourbem/My-Roadmap/tree/main/Linguagens%20-%20Python);  
 [ ] - Bibliotecas Essenciais (Numpy. Pandas);  
 [ ] - Ambientes Virtuais (Virtual Enviroments);  
 [ ] - Juyter Notebooks/Labs;
