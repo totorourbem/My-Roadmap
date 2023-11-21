@@ -3,7 +3,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>visite Recife! - O Marco Zero</title>
+    <title>Visite Recife! - O Marco Zero</title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,7 +15,37 @@
        }
        .logo {
             width: 100%;
+            text-align: center;
        }
+       .links {
+	        background-color: #D9A441;
+	        background-image: linear-gradient(to bottom, #FFFFFF, transparent);
+	        border-bottom: 1px solid #D9A441;
+	        box-shadow: 0 0 32px #808080;
+	        font-size: 2em;
+            font-family: East Sea Dokdo;
+	        font-weight: 300;
+            color:#808080;
+            text-align: center;
+            width: 962px;
+        }
+        .links > a {
+	        color: #808080;
+	        padding: .75em;
+	        text-align: center;
+	        text-decoration: none;
+	        transition: all .5s;
+        }
+        .links > a:hover {
+	        background: #ffffff06;
+	        color: #fff;
+        }
+        .links > .line {
+	        background: #808080;
+	        height: 1px;
+	        pointer-events: none;
+        }       
+
         article img {
            position: relative; 
            text-align: right;
@@ -54,7 +84,13 @@
 </head>
 <body>
     <header>
-        <img id='logo' src = './Marco_Zero_REcife_Exercicio - Assets/Logo.png' />
+        <img id='logo' src = './Marco_Zero_Recife_Exercicio - Assets/Logo.png' />
+        <nav class="links" style="--items: 5;">
+                <a href="./Marco_Zero_REcife_Exercicio.html">Marco Zero</a>
+                <a href="./Paco_do_Frevo_Recife_Exercicio.html">Paco do Frevo</a>
+                <a href="./Memorial_Recife_Exercicio.html">Memorial Luiz Gonzaga</a>
+                <span class="line"></span>
+        </nav>
     </header>
     <article >
         <h1> Marco Zero </h1>
@@ -69,14 +105,14 @@
         <img src = './Marco_Zero_REcife_Exercicio - Assets/marcozero.jfif' />
         <figcaption>Vista do Marco Zero. Fonte: "guiadasemana.com.br"</figcaption>
         </figure>
-        <p>Aqui, você poderá explorar a rica história da cidade através dos diversos monumentos e painéis espalhados pelo local. Cada um deles conta uma parte da história do Recife, desde a chegada dos portugueses até os dias atuais. Não deixe de visitar o Memorial Luiz Gonzaga, onde você poderá aprender mais sobre a vida e a obra desse grande ícone da música nordestina.</p>
+        <p>Aqui, você poderá explorar a rica história da cidade através dos diversos monumentos e painéis espalhados pelo local. Cada um deles conta uma parte da história do Recife, desde a chegada dos portugueses até os dias atuais. Não deixe de visitar o <a href="./Memorial_Recife_Exercicio.html"> Memorial Luiz Gonzaga</a>, onde você poderá aprender mais sobre a vida e a obra desse grande ícone da música nordestina.</p>
         <p>Além disso,<em> o Marco Zero também abriga uma série de eventos culturais ao longo do ano. Desde shows musicais até exposições de arte, há sempre algo acontecendo por aqui. </em>Portanto, não deixe de conferir a programação antes de sua visita e aproveite para vivenciar a efervescência cultural do Recife.</p>
         <figure>
         <img src = './Marco_Zero_REcife_Exercicio - Assets/Shows-no-Marco-Zero-Recife-Foto-acervo-Eduardo-Andreassi.jpg' />
         <figcaption>Fonte: Acervo-Eduardo-Andreassi. "webveture.com.br"</figcaption>
         </figure>
         <p>E se você estiver com fome, não se preocupe! O Marco Zero está cercado por uma infinidade de restaurantes e bares que oferecem uma deliciosa gastronomia regional. <em>Experimente os pratos típicos como o bolo de rolo, a tapioca e o famoso acarajé pernambucano.</em> Você certamente não ficará decepcionado com as opções culinárias que o Recife tem a oferecer.</p>
-        <p>Além disso, o Marco Zero está estrategicamente localizado próximo a outros pontos turísticos importantes da cidade. A apenas alguns passos de distância, você encontrará o charmoso Bairro do Recife Antigo, com suas ruas de paralelepípedos e casarões coloniais. Não deixe de visitar o Paço do Frevo, onde você poderá aprender mais sobre esse ritmo musical tão característico do Recife.</p>
+        <p>Além disso, o Marco Zero está estrategicamente localizado próximo a outros pontos turísticos importantes da cidade. A apenas alguns passos de distância, você encontrará o charmoso Bairro do Recife Antigo, com suas ruas de paralelepípedos e casarões coloniais. Não deixe de visitar o <a href="./Paco_do_Frevo_Recife_Exercicio.html">Paço do Frevo</a>, onde você poderá aprender mais sobre esse ritmo musical tão característico do Recife.</p>
         <figure>
         <img src = './Marco_Zero_REcife_Exercicio - Assets/gastronomia.jfif' />
         <figcaption>Fonte: "g1.com.br"</figcaption>
