@@ -14,7 +14,7 @@ _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de t
 ## Conhecimentos básicos sobre internnet e Frontend
 [ ] - Protocolo HTTP;  
 [ ] - HTML/CSS;  
-[ ] - Javascript;  
+[ ] - [Javascript](https://github.com/totorourbem/My-Roadmap/tree/main/Frontend%20-%20JavaScript);  
 ## Linguagens/Sistemas Operacionais
 [X] - [Python](https://github.com/totorourbem/My-Roadmap/tree/main/Linguagens%20-%20Python);  
 [ ] - R;  
