@@ -1,7 +1,7 @@
 let titulo = document.getElementById('titulo');
-let lista = document.getElementById('lista-ordenada');
-let link = document.getElementsById('link');
-let listaCaos = document.getElementsById('listaCaos');
+let lista = document.querySelector('ol');
+let link = document.querySelector('a');
+let listaCaos = document.querySelector('ul');
 
 titulo.innerText = "título implementado via JS";
 link.innerText = "PROS!JS!";
@@ -10,7 +10,6 @@ lista.innerHTML = `
     <li><a href="https://google.com></a></li>
     <li><a href="https://bing.com></a></li>
     <li><a href="https://you.com></a></li>
-    
 `
 
 listaCaos.innerHTML = ` 
