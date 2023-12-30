@@ -1,0 +1,32 @@
+-- Tabela dos itens da torre Pivô
+CREATE TABLE Torre (
+    id_torre INT PRIMARY KEY,
+    painel_controle VARCHAR(255),
+    tubo_aco_zincado VARCHAR(255),
+    estrutura_apoio INT,
+    curva_aco_zincado VARCHAR(255),
+    cabo_eletrico VARCHAR(255)
+);
+
+-- Tabela itens do lance Pivô
+CREATE TABLE Lance (
+    id_lance INT PRIMARY KEY,
+    tubo_aco_zincado VARCHAR(255),
+    spray VARCHAR(255),
+    mangueira VARCHAR(255),
+    parafuso VARCHAR(255),
+    motoredutor VARCHAR(255),
+    roda_pneu VARCHAR(255),
+    estrutura_apoio INT,
+    estrutura_equilibrio INT
+);
+
+
+CREATE TABLE Pivo (
+    id_pivo INT PRIMARY KEY,
+    nome VARCHAR(255), 
+    torre_id INT,
+    lance_id INT,
+    FOREIGN KEY (torre_id) REFERENCES Torre(id_torre),
+    FOREIGN KEY (lance_id) REFERENCES Lance(id_lance)
+);
