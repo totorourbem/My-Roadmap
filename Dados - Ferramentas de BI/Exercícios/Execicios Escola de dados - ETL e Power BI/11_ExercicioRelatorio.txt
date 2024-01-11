@@ -1,0 +1,164 @@
+                                                    XYZ Companhia Ltda.                                    Pg 1
+                                  	Relatorio detalhado de vendas 2023 jan a mar
+                                              	Dept xxx - Logística
+
+ Account                                                                                         Begin             Net          Final   
+   No.              Description of Account              Balance                                                   Change       Balance  
+
+ Jan 2023
+  123-03            Purchases                                                                     0,00        214.861,77    214.861,77
+
+               Tran Date      Tran Amount                   Source         Reference Information         Vendor Name
+               02/01/2023        4.429,36                   AB0001         Carnes-Tudo Carnes ABC
+               02/01/2023       10.450,96                   AB0002         Bebidas-Distribuidora do Zeca
+               02/01/2023          128,25                   AB0003         Bebidas-Cervejaria Sanca
+               04/01/2023        4.895,61                   AB0004         Carnes-Tudo Carnes ABC
+               04/01/2023       11.551,06                   AB0005         Bebidas-Distribuidora do Zeca
+               04/01/2023          141,75                   AB0006         Bebidas-Cervejaria Sanca
+               06/01/2023        4.662,48                   AB0007         Carnes-Tudo Carnes ABC
+               06/01/2023       11.001,01                   AB0008         Bebidas-Distribuidora do Zeca
+               06/01/2017          135,00                   AB0009         Bebidas-Cervejaria Sanca
+               09/01/2023        3.276,19                   AB0010         Carnes-Tudo Carnes ABC
+               09/01/2023       12.773,43                   AB0011         Bebidas-Distribuidora do Zeca
+               09/01/2023          109,92                   AB0012         Bebidas-Cervejaria Sanca
+               10/01/2023        3.621,05                   AB0013         Carnes-Tudo Carnes ABC
+               10/01/2023       14.118,01                   AB0014         Bebidas-Distribuidora do Zeca
+               10/01/2023          121,49                   AB0015         Bebidas-Cervejaria Sanca
+               13/01/2023        3.448,62                   AB0016         Carnes-Tudo Carnes ABC
+               13/01/2023       13.445,72                   AB0017         Bebidas-Distribuidora do Zeca
+               13/01/2023          115,71                   AB0018         Bebidas-Cervejaria Sanca
+               16/01/2023        4.020,71                   AB0019         Carnes-Tudo Carnes ABC
+               16/01/2023       12.192,81                   AB0020         Bebidas-Distribuidora do Zeca
+               16/01/2023          134,35                   AB0021         Bebidas-Cervejaria Sanca
+               18/01/2023        4.443,95                   AB0022         Carnes-Tudo Carnes ABC
+               18/01/2023       13.476,27                   AB0023         Bebidas-Distribuidora do Zeca
+               18/01/2023          148,49                   AB0024         Bebidas-Cervejaria Sanca
+               20/01/2023        4.232,33                   AB0025         Carnes-Tudo Carnes ABC
+               20/01/2023       12.834,54                   AB0026         Bebidas-Distribuidora do Zeca
+               20/01/2023          141,42                   AB0027         Bebidas-Cervejaria Sanca
+               23/01/2023        4.400,85                   AB0028         Carnes-Tudo Carnes ABC
+               23/01/2023       11.031,60                   AB0029         Bebidas-Distribuidora do Zeca
+               23/01/2023          116,03                   AB0030         Bebidas-Cervejaria Sanca
+               25/01/2023        4.864,10                   AB0031         Carnes-Tudo Carnes ABC
+               25/01/2023       12.192,82                   AB0032         Bebidas-Distribuidora do Zeca
+               25/01/2023          128,25                   AB0033         Bebidas-Cervejaria Sanca
+               27/01/2023        4.632,48                   AB0034         Carnes-Tudo Carnes ABC
+               27/01/2023       11.612,21                   AB0035         Bebidas-Distribuidora do Zeca
+               27/01/2023          122,14                   AB0036         Bebidas-Cervejaria Sanca
+               30/01/2023        3.976,46                   AB0037         Carnes-Tudo Carnes ABC
+               30/01/2023       11.612,20                   AB0038         Bebidas-Distribuidora do Zeca
+               30/01/2023          122,14                   AB0039         Bebidas-Cervejaria Sanca
+
+Fev 2023
+  123-03            Purchases                                                               214.861,77        255.700,14    470.561,91
+
+               Tran Date      Tran Amount                   Source         Reference Information         Vendor Name
+               01/02/2023        4.395,03                   AB0040         Carnes-Tudo Carnes ABC
+
+March 20,2009  2:08pm                                                                                       User: KLM  Term: A0
+                                                    XYZ Companhia Ltda.                                    Pg 2
+                                  	Relatorio detalhado de vendas 2016 jan a mar
+                                              	Dept xxx - Logística
+
+ Account                                                                                         Begin             Net          Final   
+   No.              Description of Account              Balance                                                   Change       Balance  
+
+               01/02/2023       12.834,54                   AB0041         Bebidas-Distribuidora do Zeca
+               01/02/2023          135,00                   AB0042         Bebidas-Cervejaria Sanca
+               03/02/2023        4.185,74                   AB0043         Carnes-Tudo Carnes ABC
+               03/02/2023       12.223,37                   AB0044         Bebidas-Distribuidora do Zeca
+               03/02/2023          128,57                   AB0045         Bebidas-Cervejaria Sanca
+               06/02/2023        5.240,14                   AB0046         Carnes-Tudo Carnes ABC
+               06/02/2023       13.699,94                   AB0047         Bebidas-Distribuidora do Zeca
+               06/02/2023          157,29                   AB0048         Bebidas-Cervejaria Sanca
+               08/02/2023        5.791,73                   AB0049         Carnes-Tudo Carnes ABC
+               08/02/2023       15.142,04                   AB0050         Bebidas-Distribuidora do Zeca
+               08/02/2023          173,85                   AB0051         Bebidas-Cervejaria Sanca
+               10/02/2023        5.515,93                   AB0052         Carnes-Tudo Carnes ABC
+               10/02/2023       14.420,99                   AB0053         Bebidas-Distribuidora do Zeca
+               10/02/2023          165,57                   AB0054         Bebidas-Cervejaria Sanca
+               13/02/2023        5.872,97                   AB0055         Carnes-Tudo Carnes ABC
+               13/02/2023       16.744,32                   AB0056         Bebidas-Distribuidora do Zeca
+               13/02/2023          134,82                   AB0057         Bebidas-Cervejaria Sanca
+               15/02/2023        6.491,18                   AB0058         Carnes-Tudo Carnes ABC
+               15/02/2023       18.506,88                   AB0059         Bebidas-Distribuidora do Zeca
+               15/02/2023          149,02                   AB0060         Bebidas-Cervejaria Sanca
+               17/02/2023        6.182,08                   AB0061         Carnes-Tudo Carnes ABC
+               17/02/2023       17.625,60                   AB0062         Bebidas-Distribuidora do Zeca
+               17/02/2023          141,92                   AB0063         Bebidas-Cervejaria Sanca
+               20/02/2023        5.952,31                   AB0064         Carnes-Tudo Carnes ABC
+               20/02/2023       15.983,25                   AB0065         Bebidas-Distribuidora do Zeca
+               20/02/2023          164,78                   AB0066         Bebidas-Cervejaria Sanca
+               22/02/2023        6.578,87                   AB0067         Carnes-Tudo Carnes ABC
+               22/02/2023       17.665,70                   AB0068         Bebidas-Distribuidora do Zeca
+               22/02/2023          182,13                   AB0069         Bebidas-Cervejaria Sanca
+               24/02/2023        6.265,59                   AB0070         Carnes-Tudo Carnes ABC
+               24/02/2023       16.824,47                   AB0071         Bebidas-Distribuidora do Zeca
+               24/02/2023          173,45                   AB0072         Bebidas-Cervejaria Sanca
+               27/02/2023        5.247,72                   AB0073         Carnes-Tudo Carnes ABC
+               27/02/2023       14.461,03                   AB0074         Bebidas-Distribuidora do Zeca
+               27/02/2023          142,32                   AB0075         Bebidas-Cervejaria Sanca
+
+ Mar 2023
+  123-03            Purchases                                                               255.700,14        350.468,73    821.030,64
+
+               Tran Date      Tran Amount                   Source         Reference Information         Vendor Name
+               01/03/2023        5.800,12                   AB0076         Carnes-Tudo Carnes ABC
+               01/03/2023       15.983,24                   AB0077         Bebidas-Distribuidora do Zeca
+               01/03/2023          157,30                   AB0078         Bebidas-Cervejaria Sanca
+               03/03/2023        5.523,92                   AB0079         Carnes-Tudo Carnes ABC
+               03/03/2023       15.222,14                   AB0080         Bebidas-Distribuidora do Zeca
+               03/03/2023          149,81                   AB0081         Bebidas-Cervejaria Sanca
+               06/03/2023        8.129,33                   AB0082         Carnes-Tudo Carnes ABC
+               06/03/2023       15.041,62                   AB0083         Bebidas-Distribuidora do Zeca
+               06/03/2023          255,73                   AB0084         Bebidas-Cervejaria Sanca
+               08/03/2023        8.985,05                   AB0085         Carnes-Tudo Carnes ABC
+               08/03/2023       16.624,94                   AB0086         Bebidas-Distribuidora do Zeca
+               08/03/2023          282,65                   AB0087         Bebidas-Cervejaria Sanca
+               10/03/2023        8.557,19                   AB0088         Carnes-Tudo Carnes ABC
+               10/03/2023       15.833,28                   AB0089         Bebidas-Distribuidora do Zeca
+               10/03/2023          269,19                   AB0090         Bebidas-Cervejaria Sanca
+
+March 20,2023  2:08pm                                                                                       User: KLM  Term: A0
+                                                    XYZ Companhia Ltda.                                    Pg 3
+                                  	Relatorio detalhado de vendas 2016 jan a mar
+                                              	Dept xxx - Logística
+
+ Account                                                                                         Begin             Net          Final   
+   No.              Description of Account              Balance                                                   Change       Balance  
+
+               13/03/2023        6.966,56                   AB0091         Carnes-Tudo Carnes ABC
+               13/03/2023       18.384,20                   AB0092         Bebidas-Distribuidora do Zeca
+               13/03/2023          219,20                   AB0093         Bebidas-Cervejaria Sanca
+               15/03/2023        7.699,88                   AB0094         Carnes-Tudo Carnes ABC
+               15/03/2023       20.319,38                   AB0095         Bebidas-Distribuidora do Zeca
+               15/03/2023          242,27                   AB0096         Bebidas-Cervejaria Sanca
+               17/03/2023        7.333,22                   AB0097         Carnes-Tudo Carnes ABC
+               17/03/2023       19.351,79                   AB0098         Bebidas-Distribuidora do Zeca
+               17/03/2023          230,74                   AB0099         Bebidas-Cervejaria Sanca
+               20/03/2023        7.778,50                   GJ0100         Carnes-Tudo Carnes ABC
+               20/03/2023       17.548,55                   GJ0101         Bebidas-Distribuidora do Zeca
+               20/03/2023          267,91                   GJ0102         Bebidas-Cervejaria Sanca
+               22/03/2023        8.597,28                   GJ0103         Carnes-Tudo Carnes ABC
+               22/03/2023       19.395,77                   GJ0104         Bebidas-Distribuidora do Zeca
+               22/03/2023          296,11                   GJ0105         Bebidas-Cervejaria Sanca
+               24/03/2023        8.187,89                   GJ0106         Carnes-Tudo Carnes ABC
+               24/03/2023       18.472,16                   GJ0107         Bebidas-Distribuidora do Zeca
+               24/03/2023          282,01                   GJ0108         Bebidas-Cervejaria Sanca
+               27/03/2023        6.716,63                   GJ0109         Carnes-Tudo Carnes ABC
+               27/03/2023       15.877,26                   GJ0110         Bebidas-Distribuidora do Zeca
+               27/03/2023          231,38                   GJ0111         Bebidas-Cervejaria Sanca
+               29/03/2023        7.423,65                   GJ0112         Carnes-Tudo Carnes ABC
+               29/03/2023       17.548,55                   GJ0113         Bebidas-Distribuidora do Zeca
+               29/03/2023          255,73                   GJ0114         Bebidas-Cervejaria Sanca
+               31/03/2023        7.070,14                   GJ0115         Carnes-Tudo Carnes ABC
+               31/03/2023       16.712,91                   GJ0116         Bebidas-Distribuidora do Zeca
+               31/03/2023          243,55                   GJ0117         Bebidas-Cervejaria Sanca
+
+                                                                                                      ===============
+                                        Balance                                                            821.030,64
+
+                                                     ===== End of Report =====
+
+March 20,2023  2:08pm                                                                                       User: KLM  Term: A0
+

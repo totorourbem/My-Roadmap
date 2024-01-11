@@ -1,0 +1,777 @@
+País
+População
+Ano
+China
+1372470000
+2015
+Índia
+1278160000
+2015
+Estados Unidos
+321968000
+2015
+Indonésia
+255780000
+2015
+Brasil
+205002000
+2015
+Paquistão
+188925000
+2015
+Nigéria
+182202000
+2015
+Bangladesh
+159145000
+2015
+Rússia
+146606730
+2015
+Japão
+126832000
+2015
+México
+121005815
+2015
+Filipinas
+102157500
+2015
+Vietnã
+93448000
+2015
+Etiópia
+90076012
+2015
+Egito
+89619300
+2015
+Alemanha
+81197500
+2014
+Irã
+78690300
+2015
+Turquia
+77695000
+2014
+República Democrática do Congo
+77267000
+2015
+França
+67087000
+2015
+Tailândia
+65104000
+2015
+Reino Unido
+64800000
+2015
+Itália
+60725000
+2015
+África do Sul
+54956900
+2015
+Myanmar
+53897000
+2015
+Tanzânia
+53470000
+2015
+Coreia do Sul
+51482816
+2015
+Colômbia
+48336300
+2015
+Espanha
+46439864
+2015
+Quênia
+46050000
+2015
+Argentina
+43131966
+2015
+Ucrânia
+42813557
+2015
+Argélia
+39500000
+2015
+Polônia
+38484000
+2014
+Sudão
+38435252
+2015
+Iraque
+36004552
+2014
+Canadá
+35851774
+2015
+Uganda
+34856813
+2014
+Marrocos
+33337529
+2014
+Arábia Saudita
+31521418
+2015
+Peru
+31151643
+2015
+Uzbequistão
+31022500
+2015
+Malásia
+30727000
+2015
+Venezuela
+30620404
+2015
+Nepal
+28037904
+2015
+Gana
+27043093
+2014
+Afeganistão
+26023100
+2013
+Iêmen
+25956000
+2014
+Moçambique
+25727911
+2015
+Coreia do Norte
+25155000
+2015
+Angola
+24383301
+2014
+Austrália
+23919400
+2015
+Taiwan
+23461708
+2015
+Síria
+23412429
+2015
+Camarões
+23344000
+2015
+Costa do Marfim
+22671331
+2014
+Madagáscar
+22434363
+2014
+Sri Lanka
+20675000
+2014
+Romênia
+19942642
+2014
+Níger
+19899000
+2015
+Burkina Faso
+18450494
+2015
+Chile
+18006407
+2015
+Mali
+17600000
+2015
+Cazaquistão
+17563300
+2015
+Países Baixos
+16922900
+2015
+Malawi
+16310431
+2015
+Guatemala
+16176133
+2015
+Equador
+16027500
+2014
+Zâmbia
+15473905
+2015
+Camboja
+15405157
+2015
+Chade
+14037000
+2015
+Senegal
+13508715
+2013
+Zimbabwe
+13061239
+2012
+Sudão do Sul
+11892934
+2015
+Bolívia
+11410651
+2015
+Rwanda
+11262564
+2015
+Bélgica
+11250659
+2015
+Cuba
+11238317
+2014
+Tunísia
+10982754
+2014
+Haiti
+10911819
+2015
+Grécia
+10846979
+2015
+Somália
+10787000
+2015
+Guiné
+10628972
+2014
+República Tcheca
+10537818
+2015
+República Dominicana
+10528000
+2015
+Portugal
+10374822
+2014
+Benin
+10315244
+2015
+Hungria
+9849000
+2014
+Burundi
+9823827
+2015
+Suécia
+9816666
+2015
+Azerbaijão
+9654900
+2015
+Belarus
+9485300
+2015
+Emirados Árabes Unidos
+9157000
+2015
+Honduras
+8725111
+2014
+Áustria
+8602112
+2015
+Israel
+8412000
+2015
+Tadjiquistão
+8354000
+2015
+Suíça
+8279700
+2015
+Jordânia
+7595000
+2015
+Papua-Nova Guiné
+7398500
+2013
+Togo
+7305000
+2015
+Hong Kong(China)
+7298600
+2015
+Bulgária
+7202198
+2014
+Sérvia
+7114393
+2015
+Paraguai
+7003406
+2015
+Laos
+6802000
+2015
+Serra Leoa
+6453000
+2015
+El Salvador
+6401240
+2014
+Líbia
+6278000
+2015
+Nicarágua
+6198154
+2014
+Quirguistão
+5944400
+2015
+Dinamarca
+5678348
+2015
+Singapura
+5535000
+2015
+Finlândia
+5489007
+2015
+Eslováquia
+5421349
+2014
+Eritreia
+5228000
+2015
+Noruega
+5189435
+2015
+República Centro-Africana
+4900000
+2015
+Costa Rica
+4773130
+2014
+Turcomenistão
+4751120
+2012
+Palestina
+4682467
+2015
+Irlanda
+4635400
+2015
+República do Congo
+4620000
+2014
+Nova Zelândia
+4621680
+2015
+Libéria
+4503000
+2015
+Omã
+4257568
+2015
+Croácia
+4225316
+2014
+Líbano
+4168000
+2013
+Puntlândia(Somália)
+3900000
+2015
+Bósnia e Herzegovina
+3791622
+2013
+Panamá
+3764166
+2015
+Geórgia
+3729500
+2015
+Mauritânia
+3631775
+2015
+Moldávia
+3555200
+2015
+Porto Rico(Estados Unidos)
+3548397
+2014
+Somalilândia(Somália)
+3500000
+2015
+Uruguai
+3415866
+2015
+Kuwait
+3268431
+2012
+Mongolia
+3037675
+2015
+Armênia
+3005500
+2015
+Lituânia
+2900787
+2015
+Albânia
+2893005
+2015
+Jamaica
+2717991
+2013
+Namíbia
+2280700
+2015
+Lesoto
+2135000
+2015
+Qatar
+2120129
+2015
+Botswana
+2070984
+2012
+Macedônia
+2069172
+2014
+Eslovênia
+2068211
+2015
+Letônia
+1978300
+2015
+Gâmbia
+1882450
+2013
+Guiné-Bissau
+1844000
+2015
+Kosovo
+1827231
+2015
+Gabão
+1725000
+2015
+Bahrain
+1359800
+2015
+Trinidad e Tobago
+1340557
+2013
+Estônia
+1313271
+2015
+Maurícia
+1261208
+2014
+Guiné Equatorial
+1222442
+2015
+Timor-Leste
+1212107
+2014
+Suazilândia
+1119375
+2015
+Djibouti
+888000
+2015
+Fiji
+859178
+2013
+Chipre
+858000
+2013
+Reunião (ilha)(França)
+844994
+2014
+Comores
+784745
+2015
+Butão
+765650
+2015
+Guiana
+746900
+2013
+Macau(China)
+642900
+2015
+Montenegro
+621207
+2013
+Ilhas Salomão
+581344
+2013
+Luxemburgo
+562958
+2014
+Suriname
+534189
+2012
+Cabo Verde
+524833
+2015
+Sahara Ocidental
+510713
+2014
+Transnistria
+505153
+2014
+Malta
+445426
+2014
+Guadalupe(França)
+403750
+2014
+Brunei
+393372
+2011
+Martinica(França)
+381326
+2014
+Bahamas
+368390
+2013
+Belize
+368310
+2015
+Maldivas
+341256
+2014
+Islândia
+330610
+2015
+Chipre do Norte
+294396
+2011
+Barbados
+285000
+2013
+Nova Caledônia(França)
+268767
+2014
+Polinésia Francesa(França)
+268270
+2012
+Vanuatu
+264652
+2013
+Abkhazia
+240705
+2011
+Guiana Francesa(França)
+239648
+2012
+Mayotte(França)
+212645
+2012
+Samoa
+187820
+2011
+São Tomé e Príncipe
+187356
+2012
+Santa Lúcia
+185000
+2015
+Guam(Estados unidos)
+159358
+2010
+Curaçao(Países Baixos)
+154843
+2014
+Nagorno-Karabakh
+146573
+2012
+São Vicente e Granadinas
+109991
+2012
+Aruba(Países Baixos)
+107394
+2014
+Kiribati
+106461
+2013
+Ilhas Virgens Americanas(Estados Unidos)
+106405
+2010
+Granada
+103328
+2011
+Tonga
+103252
+2011
+Estados Federados da Micronésia
+101000
+2013
+Jersey(Reino Unido)
+99000
+2012
+Seychelles
+89949
+2013
+Antigua e Barbuda
+86295
+2011
+Ilha de Man(Reino Unido)
+84497
+2011
+Ceuta(Espanha)
+82376
+2011
+Melilla(Espanha)
+78476
+2011
+Andorra
+76949
+2014
+Dominica
+71293
+2011
+Guernsey(Reino Unido)
+65150
+2014
+Bermuda(Reino Unido)
+64237
+2010
+Ilhas Marshall
+56086
+2013
+São Cristóvão e Nevis
+56000
+2015
+Gronelândia(Dinamarca)
+56114
+2015
+Ilhas Cayman(Reino Unido)
+58238
+2014
+Samoa Americana(Estados Unidos)
+55519
+2010
+Marianas Setentrionais(Estados Unidos)
+53883
+2010
+Ossétia do Sul
+51547
+2013
+Ilhas Faroe(Dinamarca)
+49179
+2015
+Sint Maarten(Países Baixos)
+37429
+2010
+Liechtenstein
+37370
+2014
+Mônaco
+37800
+2014
+Saint-Martin(França)
+36522
+2015
+San Marino
+32831
+2015
+Gibraltar(Reino Unido)
+32734
+2013
+Turks e Caicos(Reino Unido)
+31458
+2012
+Åland(Finlândia)
+28875
+2014
+Ilhas Virgens Britânicas(Reino Unido)
+28054
+2010
+Palau
+20901
+2013
+Bonaire(Países Baixos)
+17408
+2013
+Ilhas Cook
+14974
+2011
+Anguilla(Reino Unido)
+13452
+2011
+Wallis e Futuna(França)
+13135
+2013
+Tuvalu
+10640
+2012
+Nauru
+10084
+2011
+São Bartolomeu(França)
+9269
+2012
+São Pedro e Miquelon(França)
+6069
+2012
+Montserrat(Reino Unido)
+4922
+2011
+Sint Eustatius(Países Baixos)
+4020
+2013
+Santa Helena (Reino Unido)
+4000
+2015
+Ilhas Falkland(Reino Unido)
+3000
+2015
+Svalbard e Jan Mayen(Noruega)
+2562
+2014
+Ilha Norfolk(Austrália)
+2302
+2011
+Ilha Christmas(Austrália)
+2072
+2011
+Saba(Países Baixos)
+1991
+2013
+Niue
+1190
+2014
+Tokelau(NZ)
+1411
+2011
+Vaticano
+839
+2012
+Ilhas Cocos(Austrália)
+550
+2011
+Ilha Wake(Estados Unidos)
+188
+2005
+Terras Austrais e Antárticas Francesas(França)
+140
+2013
+Midway Atoll(Estados Unidos)
+60
+2009
+Pitcairn Islands(UK)
+56
+2014
+João Pessoa
+800000
+2018
