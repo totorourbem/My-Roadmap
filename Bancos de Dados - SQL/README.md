@@ -6,7 +6,7 @@ O Banco de Dados, ou BD, é uma coleção organizada, estruturada e eletrônica 
 _Importante: Os materiais aqui dispostos ou foram escritos por mim, ou são de terceiros sob domínio público, ou são mateirais promocionais, e todos tem fins estritamente didáticos._
 
 ## Subtema
-[X] - Introdução;  
+[X] - [Introdução](https://github.com/totorourbem/My-Roadmap/blob/main/Bancos%20de%20Dados%20-%20SQL/Introdu%C3%A7%C3%A3o.md);  
 [X] - DBMS/SGBDs (Database management systems/sistemas gerenciadores de bancos de dados);  
 [ ] - Modelagem de Banco de Dados;
 [ ] - Arquitetura de Bancode dados;
