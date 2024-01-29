@@ -1,0 +1,5 @@
+Grupos de 3 a 4 alunos
+- Escolher uma base de dados no Kaggle ou Maven
+- Gerar 3 hipóteses com os dados disponíveis
+- Validar as hipóteses
+- Apresentar para a sala (apresentações de 10 minutos, com 5 minutos de feedback do professor)
