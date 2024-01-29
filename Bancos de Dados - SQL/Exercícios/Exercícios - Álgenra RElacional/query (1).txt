@@ -1,0 +1,44 @@
+/*Filmes Lançados em 1968*/
+(σ year = 1968 (movies))
+
+/*Filmes com rank menor que 5*/
+(σ rank < 5 (movies))
+
+/*Diretor com nome Stanley*/
+(σ first_name = 'Stanley' (directors))
+
+/*Atrizes do gênero feminino*/
+(σ gender = 'F' (actors))
+
+/*Atrizes do gênero feminino e nome Anne*/
+(σ gender = 'F' ∧ first_name = 'Anne' (actors))
+
+/*Atores do gênero masculino e sobrenome Campbell*/
+(σ gender = 'M' ∧ last_name = 'Campbell' (actors))
+
+/*ID e sobrenomes dos diretores*/
+π first_name, last_name (directors)
+
+/*Sobrenome e gêneros dos atores*/
+π last_name, gender (actors)
+
+/*Nome e ranking dos filmes anteriores à 1970*/
+π name, rank (σ year < 1970 (movies))
+
+/*Nome e sobrenome das atrizes do gênbero feminino*/
+π first_name, last_name (σ gender = 'F' (actors))
+
+/*Nome e ano dos filmes com ranking maior que 7.5*/
+π name, year (σ rank > 7.5  (movies))
+
+Filmes lançados em 1981, e filmes com ranking de 8.7
+(σ year = 1981 ∧ rank = 8.7 (movies))
+
+Atores do gênero masculino e nome William, e atores do genero masculino e sobrenome Armstrong
+(σ gender = 'M' ∧ first_name = 'William' ∧  gender = 'M' ∧ last_name = 'Armstrong' (actors))
+
+/*Atores do gênero masculino e sobrenome Lloyd, e atrizes do genero feminino e enome Emily*/
+(σ gender = 'M' ∧ last_name = 'Lloyd' ∧  gender = 'F' ∧ first_name = 'Emily' (actors))
+
+/*Filmes lançados antes dos anos 1960 com ranking maior que 8.5 e filmes lançados depois dos anos 2000 e rtank menor que 6*/
+(σ year < 1960 ∧ rank > 8.5 ∧  year > 2000 ∧ rank < 6 (movies))
