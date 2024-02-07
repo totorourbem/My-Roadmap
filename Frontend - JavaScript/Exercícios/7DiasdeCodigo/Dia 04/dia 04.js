@@ -6,3 +6,19 @@
 
 numeroSecreto = Math.floor(Math.random() * (10 - 0 + 1) + 0)
 
+tentativa = parseInt(prompt("Digite um número inteiro de zero a 10?"))
+tentativaNo = 0
+
+while (tentativaNo < 3) {
+    tentativaNo++;
+
+    if (numeroSecreto === tentativa) {
+        alert("Parabens, você acertou o numero secreto, que era " + numeroSecreto)
+        break;
+    } else if (numeroSecreto != tentativa) {
+        alert("Que pena, você errou o numero secreto, e gastou uma tentativa. Restam " + (3 - tentativaNo) + " tentativas.")
+        tentativaNo ++;
+    } else if (tentativaNo === 3) {}   
+        alert("Que pena, você errou o numero secreto, que era " + numeroSecreto);
+        break;  
+    }
